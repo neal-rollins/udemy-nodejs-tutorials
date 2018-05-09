@@ -3,4 +3,5 @@ weather-node/node_modules
 webserver-node/node_modules
 tests-node/node_modules
 todo-api-node/node_modules
+chat-app-node/node_modules
 webserver-node/server.log
